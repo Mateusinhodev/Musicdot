@@ -5,6 +5,10 @@ body {
     margin: 0 auto;
 }
 
+.logo {
+    width: 150px;
+}
+
 h1 {
     background-color: #E1EDF2;
     padding: 10px;
@@ -24,4 +28,18 @@ figure{
 
 figcaption {
     margin-top: 10px;
+}
+
+.matriz {
+    width: 550px;
+    margin: 0 auto;
+}
+
+.familia {
+    width: 275px;
+    float: right;
+}
+
+img {
+    width: inherit;
 }
