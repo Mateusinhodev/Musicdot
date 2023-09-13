@@ -9,12 +9,13 @@ body {
     width: 150px;
 }
 
-h1 {
+.titulo {
     background-color: #E1EDF2;
     padding: 10px;
+    border: none;
 }
 
-h2 {
+.subtitulo {
     border-bottom: 2px solid #000;
 }
 
